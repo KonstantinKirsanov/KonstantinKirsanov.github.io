@@ -30,3 +30,10 @@ h1 {
 	bottom: 5%;
 	right: 5%;
 }
+
+
+@media (max-width: 768px) {
+    h1 {font-size: 10vw;}
+	.autor {font-size: 4vw;}
+}
+
