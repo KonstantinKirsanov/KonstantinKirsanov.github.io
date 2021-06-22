@@ -1,0 +1,32 @@
+body {
+	background-color: #4c446c;
+	font-family: serif;
+	color: white;
+}
+
+a {
+	color: white;
+}
+
+h1 {
+	font-size: 4vw;
+}
+
+ h2 {
+	font-size: 2vw;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.autor {
+	font-size: 2vw;
+	float: right;
+	position:absolute;
+	bottom: 5%;
+	right: 5%;
+}
